@@ -58,7 +58,7 @@ public class Trinity<T extends Comparable<T>> {
         }
     }
 
-    // вывод троицу на экран
+    // вывод троицы на экран
     public String toString() {
         return "Trinity: " + "\n"  +
                 "first = " + first + "\n"  +
