@@ -6,7 +6,7 @@ public class Main {
         System.out.println();
 
         // тестим String
-        Trinity<String> trinity2 = new Trinity<>("a","b","c");
+        Trinity<String> trinity2 = new Trinity<>("aа","bаппаап","cппаппапппапап");
         System.out.println(trinity2);
         System.out.println();
 
